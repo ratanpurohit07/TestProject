@@ -4,4 +4,7 @@ Sysout("Hello");
 
 
 Sysout("New line");
+
+
+Sysout("3rd line");
 }
