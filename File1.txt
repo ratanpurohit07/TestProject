@@ -1,4 +1,7 @@
 Class Test{
 
 Sysout("Hello");
+
+
+Sysout("New line");
 }
