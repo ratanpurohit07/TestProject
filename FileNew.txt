@@ -8,5 +8,11 @@ Sysout("New line");
 
 Sysout("3rd line");
 }
-Bug fix (added in same line) implemented for bug branch
+
+Bug fix implemented for bug branch
 create merger scenario
+
+Bug fix implemented for bug branch
+
+bug fix 2 implemented from bug branch new
+
