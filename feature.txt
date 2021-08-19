@@ -1,3 +1,4 @@
 new feature
+change in feature file added this (------1 from feature)
 
 added in new from feature
