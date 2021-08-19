@@ -9,3 +9,5 @@ Sysout("New line");
 Sysout("3rd line");
 }
 Bug fix implemented for bug branch
+
+bug fix 2 implemented from bug branch new
