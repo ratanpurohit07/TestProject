@@ -1,2 +1,4 @@
 file for new branch 
 rebase case
+
+stage change
