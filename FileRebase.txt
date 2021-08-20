@@ -2,5 +2,5 @@ file for new branch
 rebase case
 
 stage change
-change: added by teammate from Remote repo
+change: modified by teammate from Remote repo
 
