@@ -2,9 +2,5 @@ file for new branch
 rebase case
 
 stage change
-<<<<<<< HEAD
-chnage from local repo
-=======
 
-added from remote in filerebase
->>>>>>> b852c33dcc7d489da0def43c786cb50903bd9962
+
