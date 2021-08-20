@@ -4,3 +4,5 @@ rebase case
 stage change
 change: modified by teammate from Remote repo
 
+changeByME2: added change from local
+
