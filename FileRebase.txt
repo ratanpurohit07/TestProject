@@ -2,3 +2,5 @@ file for new branch
 rebase case
 
 stage change
+
+added from remote in filerebase
